@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I.T+Student)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on 100daysofPython<br>🌱 I’m currently learning Python<br> 📫 How to reach me **patriciamahinay@outlook.com** <br>
+🌱 I’m currently learning Python and Java <br> 📫 How to reach me **patriciamahinay@outlook.com** <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricia-ann-mahinay) 
