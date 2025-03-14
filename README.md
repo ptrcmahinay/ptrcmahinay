@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=1080&height=50&lines=Aspiring+Full+Stack+Dev++%7C+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=1080&height=70&font-size=40&lines=Aspiring+Full+Stack+Dev++%7C+AI+Learner" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   IT student passionate about tech, content creation, and digital business. I love working on creative projects and learning new skills in multimedia design, coding, and marketing.
