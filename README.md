@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=1080&height=70&font-size=40&lines=Aspiring+Full+Stack+Dev++%7C+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=1080&height=70&lines=Aspiring+Full+Stack+Dev++%7C+AI+Learner" alt="Typing SVG" style="max-width: 100%; height: auto; font-size: 50px;" />
 </p>
+
 
 
 <p align="center">
